@@ -45,10 +45,11 @@
 	5. H=Matrix whose entries are product of corresponding entries of B and C
 	
 5.  For the polynomial
-f(x) = x<sup>5</sup> - 12x<sup>4</sup> + 40.59x<sup>3</sup> - 17.015x<sup>2</sup> - 71.95x + 35.88
 
-Calculate f(9).
+    f(x) = x<sup>5</sup> - 12x<sup>4</sup> + 40.59x<sup>3</sup> - 17.015x<sup>2</sup> - 71.95x + 35.88
 
-Plot the polynomial for -1.5 ≤ x ≤ 6.7.
-
-The roots of the polynomial f(x) in the interval given in part b.
+    Calculate f(9).
+    
+    Plot the polynomial for -1.5 ≤ x ≤ 6.7.
+    
+    The roots of the polynomial f(x) in the interval given in part b.
