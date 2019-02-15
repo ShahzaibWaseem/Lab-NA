@@ -5,7 +5,7 @@ For Newton Raphson Method the function must be differentiable.
 
 The formula for Newton Raphson Method is: 
 
-x<sub>i+1</sub> = x<sub>i</sub> - \frac{f(x<sub>i</sub>)}{f'(x<sub>i</sub>)}
+x<sub>i+1</sub> = x<sub>i</sub> - f(x<sub>i</sub>) / f'(x<sub>i</sub>)
 
 ## Tasks
 
