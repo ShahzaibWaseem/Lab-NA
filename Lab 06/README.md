@@ -5,6 +5,7 @@
 Implement Newton Raphson method for system of non-linear equation. Take function, initial guess, tolerance and other required parameter as input from user. Find its roots. Equations are:
 
 f<sub>1</sub>(x<sub>1</sub>, x<sub>2</sub>) = 4x<sub>1</sub><sup>2</sup> - 20x<sub>1</sub> + x<sub>2</sub><sup>2</sup>/4 + 8 = 0
+
 f<sub>2</sub>(x<sub>1</sub>, x<sub>2</sub>) = x<sub>1</sub> * x<sub>2</sub><sup>2</sup>/2 + 2x<sub>1</sub> - 5x<sub>2</sub> + 8 = 0
 
 ### Task 2
