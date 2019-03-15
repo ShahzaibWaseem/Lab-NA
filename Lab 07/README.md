@@ -4,13 +4,18 @@
 ### Task 1
 Find Lagrange Interpolation polynomial fitting the points given in the following table.
 
-|x|1|3|4|6|
-|--|--|--|--|--|
-|y|-3|0|30|132|
+|x|y|
+|--|--|
+|1|-3|
+|3|0|
+|4|30|
+|6|132|
 
 ### Task 2
 Evaluate f(3) using Lagrange Interpolation formula.
 
-|x|1|2|5|
-|--|--|--|--|
-|y|1|4|10|
+|x|y|
+|--|--|
+|1|1|
+|2|4|
+|5|10|
