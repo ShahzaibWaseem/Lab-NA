@@ -5,6 +5,7 @@
 ### Task 1
 
 Implement Stirling's Interpolation Formula for the following values. Interpolate value of y for x = 0.0.65.
+
 |x|y|
 |--|--|
 |0.1|0.003|
