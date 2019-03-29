@@ -10,3 +10,5 @@ fprintf('Root: %f\n', root);
 x2 = [0.0 0.2 0.4 0.6 0.8 1.0];
 y2 = [0.0 7.8 10.68 8.37 3.97 0.0];
 
+root = NewtonBackwardDifference(x2, y2, 0.90);
+fprintf('Root for Newton Backward Difference : %f\n', root);
