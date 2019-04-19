@@ -1,4 +1,4 @@
-# Lab 10: Numerical Integration
+# Lab 11: Numerical Integration
 
 ## Tasks
 
